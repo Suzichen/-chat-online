@@ -1,0 +1,10 @@
+{
+    "name": "chatrooms",
+    "version": "0.0.1",
+    "description": "Minimalist multiroom chat serrver",
+    "author": "suzic",
+    "dependencies": {
+        "socket.io": "~2.0.4",
+        "mime": "~2.0.3"
+    }
+  }
